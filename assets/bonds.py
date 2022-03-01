@@ -1,4 +1,5 @@
 class Bond:
+
     def __init__(self, t, fv):
         self.time_to_maturity = t
         self.face_value = fv
