@@ -12,3 +12,10 @@ The repo is divided subjectively. Its organization will improve as I progress th
 pip install 
 
 ### Required Dependencies
+
+### Running Tests
+In terminal, write 
+
+```python
+python test/testMarket.py
+```
